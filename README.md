@@ -2,6 +2,8 @@
 
 A mockup for an integrated portal for Aam Aadmi Party (AAP)
 
+> [See Mockup](http://rmehta.github.io/aapkaportal-mockup/index.html)
+
 ### Introduction
 
 The AAP has got of to a spectacular debut and now has to scale up quickly. The portal is a solution that will bring all volunteers, issues and communication on one platform to enable participative democracy.
