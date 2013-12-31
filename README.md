@@ -1,4 +1,4 @@
-## App Ka Portal
+## AAP Ka Portal
 
 A mockup for an integrated portal for Aam Aadmi Party (AAP)
 
